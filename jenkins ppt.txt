@@ -2,7 +2,7 @@ In this session we will gain working knowledge about Jenkins
 
 
 What is Build Process in Software Development Lifecycle
-How Jenkins 
+How Jenkins jobs work and are configured.
 
 
 
